@@ -35,7 +35,7 @@ GoSuv是GO语言重写的类supervisor的一个进程管理程序，在[codeskyb
 
 默认端口 11113  本机测试请使用[http://localhost:11313](http://localhost:11313)
 
-![](/media/tiezhong/0000678400004823/goProject/src/github.com/tiezhong2004/gosuv/docs/des.gif)[RunImage](docs/gosuv.gif)
+![](/media/tiezhong/0000678400004823/goProject/src/github.com/tiezhong2004/gosuv/docs/des.gif)[RunImage](docs/des.gif)
 
 ## 配置
 默认配置文件都放在 `$HOME/.gosuv/`
