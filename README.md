@@ -78,4 +78,5 @@ http  RESTFul 接口
 内容不是很多，还是推荐能看懂英语的去看[英文的README](README.md)
 
 ## 贡献人
-- [Docking](http://miaomia.com)
+- [Docking](http://miaomia.com)  
+- [wutiezhong](https://blog.csdn.net/tiezhong2004)
